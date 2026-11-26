@@ -19,3 +19,6 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# Allow ZIP files in report
+!/report/**/*.zip
