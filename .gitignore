@@ -1,0 +1,21 @@
+# Dataset & large files
+an2dl2627/
+an2dl2627.zip
+*.zip
+*.png
+*.jpg
+*.jpeg
+
+# Python virtual environments & cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
